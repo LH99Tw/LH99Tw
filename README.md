@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
   <h3><strong>💻 My Tech Stack</strong></h3>
   <br/><br/>
@@ -23,13 +20,20 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
 
-
   <br/>
 
   <!-- Backend -->
   <p><strong>🔧 Back-End</strong></p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+
+  <br/>
+
+  <!-- DevOps / Network -->
+  <p><strong>🌐 DevOps & Networking</strong></p>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/ngrok-1F1F1F?style=flat-square&logo=ngrok&logoColor=white" alt="ngrok"/>
 
   <br/>
 
@@ -57,38 +61,11 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
 
-  <br/>
-
-   <br/><br/><br/>
+  <br/><br/><br/>
 </div>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LH99Tw&hide=prs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LH99Tw&layout=compact" />
 </div>
 </br>
-
-
-
-
-
-
-
-
-
-
-<!--
-**LH99Tw/LH99Tw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
